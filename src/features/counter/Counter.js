@@ -16,6 +16,7 @@ export function Counter() {
 
   return (
     <div>
+    <div className="text-5xl text-red">hello</div>
       <div className={styles.row}>
         <button
           className={styles.button}
